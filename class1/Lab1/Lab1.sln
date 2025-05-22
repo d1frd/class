@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab1", "Lab1.vcxproj", "{01996080-37E9-4845-A117-79D4C3B637DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{74187B79-D907-4B22-A9EE-5BE191595BFC}"
+	ProjectSection(SolutionItems) = preProject
+		fraction.cpp = fraction.cpp
+		fraction.h = fraction.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01996080-37E9-4845-A117-79D4C3B637DB}.Debug|x64.ActiveCfg = Debug|x64
+		{01996080-37E9-4845-A117-79D4C3B637DB}.Debug|x64.Build.0 = Debug|x64
+		{01996080-37E9-4845-A117-79D4C3B637DB}.Debug|x86.ActiveCfg = Debug|Win32
+		{01996080-37E9-4845-A117-79D4C3B637DB}.Debug|x86.Build.0 = Debug|Win32
+		{01996080-37E9-4845-A117-79D4C3B637DB}.Release|x64.ActiveCfg = Release|x64
+		{01996080-37E9-4845-A117-79D4C3B637DB}.Release|x64.Build.0 = Release|x64
+		{01996080-37E9-4845-A117-79D4C3B637DB}.Release|x86.ActiveCfg = Release|Win32
+		{01996080-37E9-4845-A117-79D4C3B637DB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
